@@ -1,0 +1,21 @@
+{
+  "name": "com.hypelab.hypelab-sdk",
+  "version": "1.0.0",
+  "displayName": "HypeLab SDK",
+  "keywords": [
+    "HypeLab",
+    "Mobile",
+    "Ads",
+    "vh-name:HypeLabSdk",
+    "vh-name:HypeLab Ads for Unity"
+  ],
+  "description": "Integrate HypeLab ads into your Android/iOS Unity project",
+  "author": {
+    "name": "HypeLab",
+    "url": "https://github.com/gohypelab/hypelab-sdk-unity"
+  },
+  "unity": "2019.4",
+  "dependencies": {
+    "com.google.external-dependency-manager": "1.2.179"
+  }
+}

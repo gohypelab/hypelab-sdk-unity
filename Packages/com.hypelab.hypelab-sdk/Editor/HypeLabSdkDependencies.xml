@@ -1,0 +1,19 @@
+<dependencies>
+  <androidPackages>
+    <repositories>
+      <repository>https://repo.maven.apache.org/maven2</repository>
+    </repositories>
+    <androidPackage spec="com.hypelab:hypelab-sdk:1.+">
+      <repositories>
+        <repository>https://raw.githubusercontent.com/gohypelab/hypelab-sdk-android/master/</repository>
+      </repositories>
+    </androidPackage>
+  </androidPackages>
+  <iosPods>
+    <iosPod name="HypeLabSdk" version="~> 1.0" bitcodeEnabled="true" minTargetSdk="15.0" addToAllTargets="false">
+      <sources>
+        <source>https://github.com/CocoaPods/Specs</source>
+      </sources>
+    </iosPod>
+  </iosPods>
+</dependencies>
