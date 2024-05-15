@@ -1,9 +1,8 @@
 #if UNITY_IOS
 using System.Runtime.InteropServices;
 using System;
-#elif UNITY_ANDROID
-using UnityEngine;
 #endif
+using UnityEngine;
 
 namespace HypeLabSdk {
 

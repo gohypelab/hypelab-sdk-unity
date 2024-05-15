@@ -3,9 +3,8 @@ using AOT;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
 using System;
-#elif UNITY_ANDROID
-using UnityEngine;
 #endif
+using UnityEngine;
 
 namespace HypeLabSdk {
 
